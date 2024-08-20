@@ -30,7 +30,7 @@ We welcome contributions to improve this extension! To get started:
 1. **Fork the Repository**: Create your own copy of the repository on GitHub.
 2. **Clone Your Fork**: Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/repository.git
+   git clone https://github.com/alexsanteenodev/chrome-reveal-password.git
 
 3.	Create a Branch: Create a new branch for your feature or fix:
 ```
@@ -42,7 +42,7 @@ git checkout -b feature-name
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the [MIT](./License.md) License. See the LICENSE file for details.
 
 ## Contact
 
